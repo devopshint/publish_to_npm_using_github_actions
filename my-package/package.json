@@ -1,5 +1,5 @@
 {
-    "name": "@devopshint/npm",
+    "name": "@devopshint/npm_project",
     "version": "0.0.1",
     "description": "📦 npm package tutorial",
     "main": "index.js",
@@ -11,7 +11,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/devopshint/npm.git"
+        "url": "https://github.com/devopshint/npm_project.git"
     },
     "keywords": [
         "npm",
@@ -26,7 +26,7 @@
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/devopshint/npm/issues"
+        "url": "https://github.com/devopshint/npm_project/issues"
     },
-    "homepage": "https://github.com/devopshint/npm#readme"
+    "homepage": "https://github.com/devopshint/npm_project#readme"
 }
