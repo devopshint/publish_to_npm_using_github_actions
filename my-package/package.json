@@ -1,0 +1,32 @@
+{
+    "name": "@devopshint/npm",
+    "version": "0.0.1",
+    "description": "📦 npm package tutorial",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "files": [
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/devopshint/npm.git"
+    },
+    "keywords": [
+        "npm",
+        "publish",
+        "package",
+        "registry"
+    ],
+    "author": {
+        "name": "Brad Garropy",
+        "email": "bradgarropy@gmail.com",
+        "url": "https://bradgarropy.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/devopshint/npm/issues"
+    },
+    "homepage": "https://github.com/devopshint/npm#readme"
+}
